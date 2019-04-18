@@ -1,0 +1,17 @@
+/* 公共样式 */
+body, div, ul, li, ol, h1, h2, h3, h4, h5, h6, input, textarea, select, p, dl, dt, dd, a, img, button, form, 
+table, th, tr, td, tbody, article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
+section {margin: 0;padding: 0;list-style:none; border:0;}
+body{ font-size:14px;font-family:"微软雅黑",Arial;}
+a{ text-decoration:none; }
+a:hover{text-decoration:none;}
+body{
+    padding-top: .4rem;
+    padding-bottom: 55px;
+}
+input{
+    outline: none;
+}
+.mint-cell-wrapper{
+    background-size: 120% 0px !important;
+}
